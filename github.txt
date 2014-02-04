@@ -10,6 +10,8 @@ salvado local primero
 
 salvar a la master en github
 
+pilar, vayamonos a dormir ... ZZzz...
+
 SISTEMA DE CONTROL DE VERSIONES 
 
 SVN: Subversion / Mercurial / TFS / CVS / GIT
