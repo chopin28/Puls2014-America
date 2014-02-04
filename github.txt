@@ -8,6 +8,8 @@ www.pilar.com
 
 salvado local primero
 
+salvar a la master en github
+
 SISTEMA DE CONTROL DE VERSIONES 
 
 SVN: Subversion / Mercurial / TFS / CVS / GIT
