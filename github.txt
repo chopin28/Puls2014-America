@@ -12,6 +12,8 @@ salvar a la master en github
 
 pilar, vayamonos a dormir ... ZZzz...
 
+vamos a realizar un conflicto
+
 SISTEMA DE CONTROL DE VERSIONES 
 
 SVN: Subversion / Mercurial / TFS / CVS / GIT
