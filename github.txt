@@ -6,6 +6,8 @@ Hosting barato normal --> /public_html/ <-- FTP
 	leonidas.jpg
 www.pilar.com
 
+salvado local primero
+
 SISTEMA DE CONTROL DE VERSIONES 
 
 SVN: Subversion / Mercurial / TFS / CVS / GIT
